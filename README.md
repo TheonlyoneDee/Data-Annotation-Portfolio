@@ -23,5 +23,6 @@ I enjoy working on annotation tasks that require attention to detail, consistenc
 - Label Studio
 - CVAT
 - GitHub
+- Doccano
 
 ## 📁Projects
